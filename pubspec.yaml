@@ -1,5 +1,5 @@
 name: flutter_notify
-description: Flutter Notify is a Flutter package that allows you to easily show in app Notification messages.
+description: Show the toast message easily in your app.
 version: 0.0.1
 homepage: https://github.com/bahiraei/flutter_notify
 
